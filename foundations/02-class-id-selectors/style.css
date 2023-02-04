@@ -6,3 +6,7 @@
 }
 
 /* 2nd - one ID blue text and a font size of 36px */
+#one-id {
+    color: rgb(6, 6, 157);
+    font-size: 36px;
+}
