@@ -14,3 +14,10 @@
 {
     font-size: 24px;
 }
+
+#another-id {
+    background-color: rgb(124, 223, 147);
+    font-size: 24px;
+    font-weight: bold;
+
+}
