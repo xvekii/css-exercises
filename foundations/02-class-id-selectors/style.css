@@ -5,8 +5,12 @@
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-/* 2nd - one ID blue text and a font size of 36px */
 #one-id {
-    color: rgb(6, 6, 157);
+    color: rgb(52, 52, 203);
     font-size: 36px;
+}
+
+.odd-class.cooler
+{
+    font-size: 24px;
 }
