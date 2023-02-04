@@ -1,0 +1,8 @@
+/* Use non-keyword value RGB, HEX, HSL */
+
+.odd-class {
+    background-color: rgb(236, 143, 191);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+/* 2nd - one ID blue text and a font size of 36px */
