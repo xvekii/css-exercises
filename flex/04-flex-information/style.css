@@ -12,6 +12,16 @@ img {
   font-weight: 900;
 }
 
+
+.main-container {
+  display: flex;
+}
+
+.media-objects {
+
+}
+
+
 /* do not edit this footer */
 .footer {
   position: fixed;
