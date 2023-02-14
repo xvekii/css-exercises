@@ -7,6 +7,7 @@ body {
   font-family: Roboto, sans-serif;
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
 }
 
 img {
@@ -37,13 +38,14 @@ a {
   text-decoration: none;
 }
 
-.header {
+.header, .footer {
   display: flex;
+  justify-content: space-between;
   
 
 }
 
-.left-links {
+/* .left-links {
   
   
-}
+} */
