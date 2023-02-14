@@ -32,6 +32,8 @@ input {
 ul {
   list-style: none;
   display: flex;
+  margin: 0px;
+  padding: 0px;
 }
 
 a {
@@ -41,10 +43,13 @@ a {
 .header, .footer {
   display: flex;
   justify-content: space-between;
-  
+  padding: 15px;
 
 }
 
+.footer {
+  background: #eeeeee;
+}
 /* .left-links {
   
   
