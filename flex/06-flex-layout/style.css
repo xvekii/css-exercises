@@ -45,7 +45,6 @@ a {
   display: flex;
   justify-content: space-between;
   padding: 15px;
-
 }
 
 .footer {
@@ -56,4 +55,9 @@ a {
   display: flex;
   flex-direction: column;
   align-items: center;
+  
+}
+
+button {
+  padding: 8px 16px;
 }
